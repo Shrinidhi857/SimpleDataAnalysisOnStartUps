@@ -1,2 +1,2 @@
 # SimpleDataAnalysisOnStartUps
-The Indian startup ecosystem has experienced remarkable growth over the past decade, becoming a hotbed of innovation and entrepreneurship. 
+The Indian startup ecosystem has experienced remarkable growth over the past decade, becoming a hotbed of innovation and entrepreneurship. This data analysis project aims to delve into the landscape of Indian startups to identify the most preferred fields of operation and the distribution of startups across different states. By examining various datasets, we seek to uncover trends and patterns that highlight which sectors are attracting the most entrepreneurial activity and how this activity is geographically dispersed across India 
